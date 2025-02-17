@@ -1,5 +1,7 @@
 <p align="left">My professional journey started when I got my first computer 💻 and fell in love with IT. Over time, I gained experience working in technical support and customer service, which helped me improve my communication and problem-solving skills 💬 ✨ Since then, I’ve worked on some freelance projects where I used PHP, MySQL, and WordPress to develop institutional websites and blogs 🌐 I’m continuously studying to improve my web development knowledge, aiming to become a more well-rounded professional.</p>
 
+<p>Contact email: alexandremsferreira1998@gmail.com</p>
+
 ###
 
 <p align="left">Techs</p>
